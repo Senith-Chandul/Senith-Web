@@ -47,3 +47,11 @@ body{
 	height: 50px;
 	padding: 10px;
 }
+
+
+@media only screen and (max-width: 770px){
+	body{
+		background-size: auto;
+	}
+
+}
